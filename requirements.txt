@@ -1,0 +1,8 @@
+# Local Stone331 inference. CUDA wheels also run on CPU-only laptops.
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+numpy==1.26.4
+timm==0.6.13
+opencv-python-headless==4.10.0.84
+Pillow==9.5.0

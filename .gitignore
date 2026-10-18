@@ -1,0 +1,16 @@
+# Do not include credentials in shared project copies
+.env
+.env.*
+!.env.example
+
+# Project-local Python runtime and virtual environment
+/.venv/
+/.python/
+/.tools/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+/.cleanup_work/
+/crackformer_ii/outputs/
+/.idea/
+/.agent/reports/
