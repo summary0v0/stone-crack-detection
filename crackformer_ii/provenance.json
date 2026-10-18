@@ -1,0 +1,9 @@
+{
+  "upstream_repository": "https://github.com/LouisNUST/CrackFormer-II",
+  "upstream_commit": "1d701aea7b09e85b106a74894cf4779f59fe9af6",
+  "checkpoint_source": "https://drive.google.com/file/d/1L_f-yUIQc1YP7xHaQtCn-agcVtjWVV6O/view",
+  "checkpoint_file": "weights/stone.pth",
+  "checkpoint_bytes": 20170079,
+  "checkpoint_sha256": "d9ebc3e203ff758f096fab486ceb43986297867f8a2c2f88752d8216cdf52e8b",
+  "local_source_of_truth": true
+}
