@@ -1,0 +1,18 @@
+{
+  "source": "https://github.com/MachineLearningVisionRG/mcs-dataset",
+  "license": "CC BY 4.0",
+  "copied_on": "2026-10-18",
+  "pixel_data_modified": false,
+  "files": [
+    {
+      "file": "marble_sample.jpg",
+      "original": "dataset/images/_1024_1536_20210531_10560.jpg",
+      "sha256": "758c2950cafc96129d3ac9559d4cd5bf6f7cf07a9040b36934f0d16b12b5cc42"
+    },
+    {
+      "file": "marble_crack.jpg",
+      "original": "dataset/images/_768_2304_20210531_10554.jpg",
+      "sha256": "ce0ac79b3c21cf4f61254bdee4ed4544307e2bb28309906e103624eba482ec45"
+    }
+  ]
+}
